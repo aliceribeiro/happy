@@ -10,7 +10,6 @@
 
 # 📑 Indice
 - [Sobre o projeto](#-projeto)
-- [Demonstração](#-demonstracao)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [Como baixar o projeto](#-como-baixar-o-projeto)
 
@@ -23,15 +22,6 @@ O **happy** foi desenvolvido com intuito de conectar pessoas dispostas à fazere
 A aplicação foi criada dentro da **Next Level Week 3.0** promovida pela **Rocketseat** visando o aprendizado de uma stack para desenvolvimento do frontend e backend.
 
 ---
-## 🎬 Demonstração
-* Cadastrando um novo orfanato
-<h1>
-  <img src="https://ik.imagekit.io/aliceribeiro/1_DhENbi73hpErw.gif">
-</h1>
-
-<h1>
-  <img src="https://ik.imagekit.io/aliceribeiro/2_wXBetk80guLz.gif">
-</h1>
 
 ## 🚀 Tecnologias utilizadas
 
